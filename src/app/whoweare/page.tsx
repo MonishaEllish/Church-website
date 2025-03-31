@@ -35,7 +35,7 @@ export default function WhoWeAre() {
           {/* Image Section */}
           <div className="w-full md:w-1/3 text-center">
             <Image
-              src="/pic2.PNG" // Replace with actual image path
+              src="/pic2.png" 
               alt="Pastor Khurram Bhatti"
               width={300}
               height={300}
